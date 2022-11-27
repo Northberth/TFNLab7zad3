@@ -1,0 +1,51 @@
+$header: "arial";
+$p: "arial";
+$h2: "arial";
+$imgSize: 200px;
+
+section > h1 {
+  font-family: $header;
+  color: rgb(18, 201, 204);
+}
+
+article {
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(50, 49, 49, 0.992);
+  text-align: center;
+  width: 50%;
+  color: white;
+}
+
+article > h2 {
+  color: #74d827;
+  font-family: $h2;
+}
+
+article > p {
+  font-family: $p;
+  font-style: bold;
+}
+
+nav > ul > li {
+  display: inline-block;
+  padding-right: 5px;
+}
+
+nav > ul > li > a {
+  text-decoration: underline;
+  font-size: 20px;
+  color: rgb(50, 117, 205);
+}
+
+header > p, footer {
+  font-size: 20px;
+  font-family: $header;
+  color: #b93b3b;
+}
+
+img {
+  height: $imgSize;
+  width: $imgSize;
+}
+

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mozilla Firefox",
+    "description": "Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web since January,2018",
+    "img": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg",
+    "img_alt" : "Mozilla Firefox"
+  },
+  {
+    "name": "Google Chrome",
+    "description": "Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/800px-Google_Chrome_icon_%28February_2022%29.svg.png",
+    "img_alt" : "Google Chrome"
+  },
+  {
+    "name": "Opera GX",
+    "description": "Opera GX is a gaming-oriented counterpart of Opera. The browser was announced and released in early access for Windows on 11 June 2019, during E3 2019.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Opera_GX_Icon.svg/640px-Opera_GX_Icon.svg.png",
+    "img_alt" : "Opera GX"
+  }
+]
