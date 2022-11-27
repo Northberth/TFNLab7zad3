@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TFNLab7zad3/static/css/main.356f4b0b.css",
+    "main.js": "/TFNLab7zad3/static/js/main.ed6b0793.js",
+    "index.html": "/TFNLab7zad3/index.html",
+    "main.356f4b0b.css.map": "/TFNLab7zad3/static/css/main.356f4b0b.css.map",
+    "main.ed6b0793.js.map": "/TFNLab7zad3/static/js/main.ed6b0793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.356f4b0b.css",
+    "static/js/main.ed6b0793.js"
+  ]
+}
